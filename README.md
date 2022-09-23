@@ -1,4 +1,4 @@
-# FileReading
+# Code Description
 **The Credit River Credit Card Company has a file that called “ledger.dat” which contains the following information for 40
 of its customers:**
       Account number of type string (a “B” followed by a 5-digit number)
@@ -17,3 +17,5 @@ Write a Java program that does the following:
       Display all information to the console including finance charge and outstanding balance for each account 
       Creates an output file called “NewBalance.dat” that contains customer number and new balance (two columns)
       OR sends the output (account number and new balance) to standard output.
+
+//This was the final project in my grade 11 computer science class and achieved an 81/85. The project was completed in early 2020.
